@@ -1,6 +1,10 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Horror Movies
 ---
+# Horror movies
+
+I like how horror movies often reflect what people are afraid of during a particular time. For example, older horror films focused on monsters, death, and supernatural while later films mostly focused on war, nuclear weapons and technology. 
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
