@@ -5,6 +5,15 @@ title: Horror Movies
 
 I like how horror movies often reflect what people are afraid of during a particular time. For example, older horror films focused on monsters, death, and supernatural while later films mostly focused on war, nuclear weapons and technology. 
 
+## Main Categories 
+- [[horror-subgenres/index|Horror Subgenres]]
+- [[horror-movie-history/index|Horror Movie History]]
+- [[theme-concepts/index|Theme Concepts]]
+- [[character-monsters/index|Character and Monsters]]
+- [[cultural-impact/index|Cultural Impact]]
+- [[famous-movies/index|Famous Movies]]
+- [[filmmaking-techniques/index|Filmmaking Techniques]]
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
