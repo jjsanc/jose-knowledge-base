@@ -19,6 +19,9 @@ When someone is being chased, trapped pr attacked, there is always the possibili
 
 For me, it takes something that everyone know about but does not always want to think about and turns it into something frightening.
 
+## SADISM AND HORROR
+
+![[sadism and horror.pdf]]
 ### Related Pages
 
 - [[Fear of the Unknown]]
