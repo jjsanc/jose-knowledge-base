@@ -11,7 +11,12 @@ The unknow is scary because our imagination can sometimes make things seem worse
 - Monsters that are hidden or shown briefly
 - Isolated locations like the middle of the sea
 
-#### Even though horror movies have changed over the years, the fear of not knowing what is coming remains an effective way to scare an audience.
+Even though horror movies have changed over the years, the fear of not knowing what is coming remains an effective way to scare an audience.
+
+## The Power of not Knowing
+
+Because you cannot see the threat, the horror feels limitless and unique to every viewer.
+![[witch.jpg]]
 
 ### Related Pages
 
