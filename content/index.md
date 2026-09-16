@@ -6,8 +6,8 @@ title: Horror Movies
 I like how horror movies often reflect what people are afraid of during a particular time. For example, older horror films focused on monsters, death, and supernatural while later films mostly focused on war, nuclear weapons and technology. 
 
 ## Main Categories 
-- [[horror-subgenres/index|Horror Subgenres]]
-- [[horror-movie-history/index|Horror Movie History]]
+- [[index Horror subgenres|Horror Subgenres]]
+- [[index Horror movie History|Horror Movie History]]
 - [[theme-concepts/index|Theme Concepts]]
 - [[character-monsters/index|Character and Monsters]]
 - [[cultural-impact/index|Cultural Impact]]
