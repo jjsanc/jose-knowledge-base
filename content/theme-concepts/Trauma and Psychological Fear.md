@@ -17,7 +17,11 @@ psychological horror can be scary because it makes the audience question what is
 
 >"Sometimes the scariest thing is not knowing if you can trust your own mind."
 
+# Why it fits this Category
 
+Hereditary shows psychological fear can come from grief, guilt, family relationships and fear that something terrible is beyond your control.
+
+![[hereditary.jpg]]
 ### Related Pages
 
 - [[Fear of the Unknown]]
