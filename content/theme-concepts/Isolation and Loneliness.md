@@ -13,10 +13,11 @@ Horror movies often place characters in locations where it is difficult to get h
 - losing contact with family members 
 - being trapped somewhere with no way out
 
-### Example: *The Shining*
+### Example: *The Night House*
 
-The shining creates fear because it suggests that the most terrifying monster is not a n external intruder, but the person we become when we are left entirely alone with our thoughts. This shows how isolation can make a horror movie more intense.
+In the *The Night House* (2001), loneliness and solitude serve as the emotional core and breeding ground for grief that consumes the protagonist.
 
+![[house.jpg]]
 ### Related Pages
 
 - [[Trauma and Psychological Fear]]
